@@ -1,1 +1,1 @@
-# Ejem02_2526_Restauraci-n
+# Ejem02_2526_Restauracion
